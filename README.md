@@ -136,8 +136,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Dhriti Rastogi
 
 ***Please be sure to check out my other repositories too!***
-- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
-- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
+- [Simple User Authentication System](https://github.com/dhritirastogi/User-Authentication-System)
+- [To Do List App](https://github.com/dhritirastogi/To-Do-List-App)
 
 
 ## Contact
